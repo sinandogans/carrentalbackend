@@ -3,6 +3,15 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# My files to ignore
+appsettings.json
+appsettings.Development.json
+launchsettings.json
+logs.txt
+nlog.config
+MSSQLContext.cs
+PostgreSQLContext.cs
+
 # User-specific files
 *.rsuser
 *.suo
